@@ -3,6 +3,8 @@
 
 sMarkup is a markup language designed to be displayed entirely in the terminal. it's really simple, yet has enough features for writing docs, manuals and other stuff
 
+![screenshot](./screenshots/screenshot_0.png)
+
 # features
 - headers
 - text dividers
