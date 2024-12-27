@@ -1,0 +1,29 @@
+_HEADER Sticky text (Header)
+## sMarkup features
+
+! To view the source code, see this file with a text editor, "cat" or "sfile content"
+
+# General
+
+# Header
+## Centered header
+- Element
+[ ] Undone action
+[x] Done action
+// Comment (Dim text)
+1. Ordered element
+2. Ordered element
+? Info
+! Warning
+!! Error
+
+# Extra
+
+Progress bars
+_PROGRESS_BAR 0
+_PROGRESS_BAR 50
+_PROGRESS_BAR 100
+
+Divider (No header text)
+---
+
